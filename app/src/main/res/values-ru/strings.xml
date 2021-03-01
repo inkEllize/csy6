@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="input_hint">введите имя</string>
+    <string name="click_me">нажми меня</string>
+    <string name="hello">"Привет, "</string>
+</resources>

@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name" translatable="false">csy6</string>
+    <string name="input_hint">input your name</string>
+    <string name="click_me">tap me</string>
+    <string name="hello">Hello, </string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+</resources>
